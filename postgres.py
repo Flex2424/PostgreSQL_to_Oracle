@@ -114,6 +114,7 @@ class PostgresExport:
 
 # postgres = PostgresExport('localhost', postgresql_credentials['username'],
 #                           postgresql_credentials['password'], '9sem_bd_lab1')
+# nice work!
 
 
 
